@@ -1,5 +1,7 @@
 package designPattern.creational.FactoryPattern.AbstractFactory;
 
+import designPattern.creational.FactoryPattern.RoundedRectangle;
+import designPattern.creational.FactoryPattern.RoundedSquare;
 import designPattern.creational.FactoryPattern.Shape;
 import designPattern.creational.FactoryPattern.ShapeType;
 

@@ -1,6 +1,4 @@
-package designPattern.creational.FactoryPattern.AbstractFactory;
-
-import designPattern.creational.FactoryPattern.Shape;
+package designPattern.creational.FactoryPattern;
 
 public class RoundedSquare implements Shape {
   @Override
